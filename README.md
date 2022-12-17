@@ -1,0 +1,1 @@
+# smaregi_csv_smart_importer
